@@ -1,26 +1,18 @@
-## Welcome
-
-### About me:
-
-- Hello, my name is Pavel Malov, I am a beginner game developer.
-- I have less than a year of experience with the Unity game engine.
-
 ### Skills:
-
-<img align="center" src="https://www.svgrepo.com/show/331626/unity.svg" style="max-width:100%;" alt="unity-icon" height="42" width="50"></img>
-&thinsp;
-<img align="center" src="https://www.svgrepo.com/show/452184/csharp.svg" style="max-width:100%;" alt="csharp-icon" height="46" width="50"></img>
-&thinsp;
-<img align="center" src="https://www.svgrepo.com/show/452210/git.svg" style="max-width:100%;" alt="git-icon" height="45" width="50"></img>
-&thinsp;
+<img align="center" src="https://www.svgrepo.com/show/452184/csharp.svg" height="40" width="48" alt="csharp"/><!--
+--><img align="center" src="https://www.svgrepo.com/show/508894/aspnet.svg" height="40" width="48" alt="aspnet"/><!--
+--><img align="center" src="https://www.svgrepo.com/show/373965/pgsql.svg" height="40" width="48" alt="postgresql"/><!--
+--><img align="center" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" height="40" width="48" alt="mssql"/><!--
+--><img align="center" src="https://www.svgrepo.com/show/452192/docker.svg" height="40" width="48" alt="docker"/><!--
+--><img align="center" src="https://www.svgrepo.com/show/354250/rabbitmq-icon.svg" height="40" width="48" alt="rabbitmq"/><!--
+--><img align="center" src="https://www.svgrepo.com/show/354272/redis.svg" height="40" width="48" alt="redis"/><!--
+--><img align="center" src="https://www.svgrepo.com/show/452210/git.svg" height="40" width="48" alt="git"/>
 
 ### Contacts:
 
-<a href="https://www.linkedin.com/in/pavel-malov-a65868245/" target="_blank">
-<img align="center" alt="wendell-linkedin" height="40" width="48" src="https://www.svgrepo.com/show/452051/linkedin.svg" style="max-width:100%;">
+<a href="https://t.me/maloveee">
+  <img align="center" src="https://www.svgrepo.com/show/452115/telegram.svg" height="37" width="48" alt="telegram"/>
 </a>
-&thinsp;
-<a href="https://t.me/maloveee" target="_blank">
-<img align="center" alt="wendell-telegram" height="38" width="48" src="https://www.svgrepo.com/show/452115/telegram.svg" style="max-width:100%;">
+<a href="https://www.linkedin.com/in/pavel-malov-a65868245">
+  <img align="center" src="https://www.svgrepo.com/show/452051/linkedin.svg" height="40" width="48" alt="linkedin"/>
 </a>
-&thinsp;
